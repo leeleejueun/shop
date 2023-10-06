@@ -1,3 +1,9 @@
+.main-bg {
+  height: 500px;
+  /* background-image: url("./sweet.jpg"); */
+  background-size: cover;
+  background-position: center;
+}
 .App {
   text-align: center;
 }
